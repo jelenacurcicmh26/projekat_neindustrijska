@@ -1,0 +1,1 @@
+Invoking command in '/home/jeja/ros2_ws/build/control_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeja/ros2_ws/install/my_package:/opt/ros/humble /usr/bin/cmake /home/jeja/ros2_ws/ros2_ws/src/ros-controls/control_msgs/control_msgs -DCMAKE_INSTALL_PREFIX=/home/jeja/ros2_ws/install/control_msgs

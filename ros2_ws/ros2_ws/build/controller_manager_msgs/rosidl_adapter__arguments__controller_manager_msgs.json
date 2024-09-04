@@ -1,0 +1,19 @@
+{
+  "package_name": "controller_manager_msgs",
+  "non_idl_tuples": [
+    "/home/zbuka/ros2_ws/src/ros-controls/ros2_control/controller_manager_msgs:msg/ControllerState.msg",
+    "/home/zbuka/ros2_ws/src/ros-controls/ros2_control/controller_manager_msgs:msg/ChainConnection.msg",
+    "/home/zbuka/ros2_ws/src/ros-controls/ros2_control/controller_manager_msgs:msg/HardwareComponentState.msg",
+    "/home/zbuka/ros2_ws/src/ros-controls/ros2_control/controller_manager_msgs:msg/HardwareInterface.msg",
+    "/home/zbuka/ros2_ws/src/ros-controls/ros2_control/controller_manager_msgs:srv/ConfigureController.srv",
+    "/home/zbuka/ros2_ws/src/ros-controls/ros2_control/controller_manager_msgs:srv/ListControllers.srv",
+    "/home/zbuka/ros2_ws/src/ros-controls/ros2_control/controller_manager_msgs:srv/ListControllerTypes.srv",
+    "/home/zbuka/ros2_ws/src/ros-controls/ros2_control/controller_manager_msgs:srv/ListHardwareComponents.srv",
+    "/home/zbuka/ros2_ws/src/ros-controls/ros2_control/controller_manager_msgs:srv/ListHardwareInterfaces.srv",
+    "/home/zbuka/ros2_ws/src/ros-controls/ros2_control/controller_manager_msgs:srv/LoadController.srv",
+    "/home/zbuka/ros2_ws/src/ros-controls/ros2_control/controller_manager_msgs:srv/ReloadControllerLibraries.srv",
+    "/home/zbuka/ros2_ws/src/ros-controls/ros2_control/controller_manager_msgs:srv/SetHardwareComponentState.srv",
+    "/home/zbuka/ros2_ws/src/ros-controls/ros2_control/controller_manager_msgs:srv/SwitchController.srv",
+    "/home/zbuka/ros2_ws/src/ros-controls/ros2_control/controller_manager_msgs:srv/UnloadController.srv"
+  ]
+}

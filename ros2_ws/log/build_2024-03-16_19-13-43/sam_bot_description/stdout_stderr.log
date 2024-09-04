@@ -1,0 +1,55 @@
+-- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+-- Found ament_lint_auto: 0.12.9 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jeja/ros2_ws/build/sam_bot_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/src/description/SamBot.proto
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/src/description/ros2_control.xacro
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/src/description/sam_bot_description.urdf
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/__pycache__/static_transform.cpython-310.pyc
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/display.launch copy.py
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/display.launch.py
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/launch_launch.launch.py
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/localization_launch.py
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/map_saver_server.launch.py
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/navigation_launch.py
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/static_transform.py
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/rviz/urdf_config.rviz
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/rviz/urdf_config_new.rviz
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/NavigateThroughPoses.xml
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/NavigateToPose.xml
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/ekf.yaml
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/mapa1.yaml
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/mapa2_skalirana.jpg
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/mapa2_skalirana.pgm
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/mapa2_skalirana.png
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/mapa_dobra.png
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/my_controller.yaml
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/nav2_params.yaml
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/turtlebot3_world.pgm
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/turtlebot3_world.yaml
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/world/my_world.sdf
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/ament_index/resource_index/package_run_dependencies/sam_bot_description
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/ament_index/resource_index/parent_prefix_path/sam_bot_description
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/environment/path.sh
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/environment/path.dsv
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/local_setup.bash
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/local_setup.sh
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/local_setup.zsh
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/local_setup.dsv
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/package.dsv
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/ament_index/resource_index/packages/sam_bot_description
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/cmake/sam_bot_descriptionConfig.cmake
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/cmake/sam_bot_descriptionConfig-version.cmake
+-- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/package.xml

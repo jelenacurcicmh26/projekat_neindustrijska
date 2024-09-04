@@ -1,0 +1,53 @@
+[0.012s] Invoking command in '/home/jeja/ros2_ws/build/sam_bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeja/ros2_ws/install/ros2_controllers_test_nodes:/opt/ros/humble /usr/bin/cmake --build /home/jeja/ros2_ws/build/sam_bot_description -- -j16 -l16
+[0.050s] Invoked command in '/home/jeja/ros2_ws/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeja/ros2_ws/install/ros2_controllers_test_nodes:/opt/ros/humble /usr/bin/cmake --build /home/jeja/ros2_ws/build/sam_bot_description -- -j16 -l16
+[0.067s] Invoking command in '/home/jeja/ros2_ws/build/sam_bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeja/ros2_ws/install/ros2_controllers_test_nodes:/opt/ros/humble /usr/bin/cmake --install /home/jeja/ros2_ws/build/sam_bot_description
+[0.071s] -- Install configuration: ""
+[0.071s] -- Execute custom install script
+[0.072s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/src/.vscode/c_cpp_properties.json
+[0.072s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/src/.vscode/settings.json
+[0.072s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/src/api.py
+[0.073s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/src/description/SamBot.proto
+[0.073s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/src/description/ros2_control.xacro
+[0.073s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/src/description/sam_bot_description.urdf
+[0.073s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/src/nav2_to_pose.py
+[0.073s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/src/serijska.py
+[0.073s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/src/strategija_fsm.py
+[0.074s] -- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/__pycache__/static_transform.cpython-310.pyc
+[0.079s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/display.launch copy.py
+[0.079s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/display.launch.py
+[0.079s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/launch_launch.launch.py
+[0.079s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/localization_launch.py
+[0.079s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/map_saver_server.launch.py
+[0.079s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/navigation_launch.py
+[0.079s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/launch/static_transform.py
+[0.080s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/rviz/urdf_config.rviz
+[0.080s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/rviz/urdf_config_new.rviz
+[0.080s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/NavigateThroughPoses.xml
+[0.080s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/NavigateToPose.xml
+[0.080s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/ekf.yaml
+[0.080s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/mapa1.yaml
+[0.081s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/mapa2_skalirana.jpg
+[0.081s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/mapa2_skalirana.pgm
+[0.081s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/mapa2_skalirana.png
+[0.081s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/mapa_dobra.png
+[0.081s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/my_controller.yaml
+[0.081s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/nav2_params.yaml
+[0.081s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/turtlebot3_world.pgm
+[0.081s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/config/turtlebot3_world.yaml
+[0.082s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/world/my_world.sdf
+[0.082s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/ament_index/resource_index/package_run_dependencies/sam_bot_description
+[0.082s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/ament_index/resource_index/parent_prefix_path/sam_bot_description
+[0.082s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/environment/ament_prefix_path.sh
+[0.082s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/environment/ament_prefix_path.dsv
+[0.082s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/environment/path.sh
+[0.082s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/environment/path.dsv
+[0.083s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/local_setup.bash
+[0.083s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/local_setup.sh
+[0.083s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/local_setup.zsh
+[0.083s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/local_setup.dsv
+[0.083s] -- Symlinking: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/package.dsv
+[0.088s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/ament_index/resource_index/packages/sam_bot_description
+[0.088s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/cmake/sam_bot_descriptionConfig.cmake
+[0.089s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/cmake/sam_bot_descriptionConfig-version.cmake
+[0.089s] -- Up-to-date symlink: /home/jeja/ros2_ws/install/sam_bot_description/share/sam_bot_description/package.xml
+[0.090s] Invoked command in '/home/jeja/ros2_ws/build/sam_bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jeja/ros2_ws/install/ros2_controllers_test_nodes:/opt/ros/humble /usr/bin/cmake --install /home/jeja/ros2_ws/build/sam_bot_description

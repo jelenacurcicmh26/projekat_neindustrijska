@@ -1,0 +1,44 @@
+[0.028s] Invoking command in '/home/zbuka/ros2_ws/build/ros2_control_test_assets': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zbuka/ros2_ws/install/rqt_joint_trajectory_controller:/home/zbuka/ros2_ws/install/rqt_controller_manager:/home/zbuka/ros2_ws/install/ros2controlcli:/home/zbuka/ros2_ws/install/ros2_controllers_test_nodes:/home/zbuka/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/humble /usr/bin/cmake /home/zbuka/ros2_ws/src/ros-controls/ros2_control/ros2_control_test_assets -DCMAKE_INSTALL_PREFIX=/home/zbuka/ros2_ws/install/ros2_control_test_assets
+[0.326s] -- The C compiler identification is GNU 11.4.0
+[0.326s] -- The CXX compiler identification is GNU 11.4.0
+[0.326s] -- Detecting C compiler ABI info
+[0.351s] -- Detecting C compiler ABI info - done
+[0.361s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.361s] -- Detecting C compile features
+[0.362s] -- Detecting C compile features - done
+[0.366s] -- Detecting CXX compiler ABI info
+[0.497s] -- Detecting CXX compiler ABI info - done
+[0.509s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.510s] -- Detecting CXX compile features
+[0.510s] -- Detecting CXX compile features - done
+[0.514s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.751s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.982s] -- Configuring done
+[0.987s] -- Generating done
+[0.989s] -- Build files have been written to: /home/zbuka/ros2_ws/build/ros2_control_test_assets
+[0.997s] Invoked command in '/home/zbuka/ros2_ws/build/ros2_control_test_assets' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zbuka/ros2_ws/install/rqt_joint_trajectory_controller:/home/zbuka/ros2_ws/install/rqt_controller_manager:/home/zbuka/ros2_ws/install/ros2controlcli:/home/zbuka/ros2_ws/install/ros2_controllers_test_nodes:/home/zbuka/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/humble /usr/bin/cmake /home/zbuka/ros2_ws/src/ros-controls/ros2_control/ros2_control_test_assets -DCMAKE_INSTALL_PREFIX=/home/zbuka/ros2_ws/install/ros2_control_test_assets
+[0.998s] Invoking command in '/home/zbuka/ros2_ws/build/ros2_control_test_assets': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zbuka/ros2_ws/install/rqt_joint_trajectory_controller:/home/zbuka/ros2_ws/install/rqt_controller_manager:/home/zbuka/ros2_ws/install/ros2controlcli:/home/zbuka/ros2_ws/install/ros2_controllers_test_nodes:/home/zbuka/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/humble /usr/bin/cmake --build /home/zbuka/ros2_ws/build/ros2_control_test_assets -- -j8 -l8
+[1.063s] Invoked command in '/home/zbuka/ros2_ws/build/ros2_control_test_assets' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zbuka/ros2_ws/install/rqt_joint_trajectory_controller:/home/zbuka/ros2_ws/install/rqt_controller_manager:/home/zbuka/ros2_ws/install/ros2controlcli:/home/zbuka/ros2_ws/install/ros2_controllers_test_nodes:/home/zbuka/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/humble /usr/bin/cmake --build /home/zbuka/ros2_ws/build/ros2_control_test_assets -- -j8 -l8
+[1.131s] Invoking command in '/home/zbuka/ros2_ws/build/ros2_control_test_assets': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zbuka/ros2_ws/install/rqt_joint_trajectory_controller:/home/zbuka/ros2_ws/install/rqt_controller_manager:/home/zbuka/ros2_ws/install/ros2controlcli:/home/zbuka/ros2_ws/install/ros2_controllers_test_nodes:/home/zbuka/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/humble /usr/bin/cmake --install /home/zbuka/ros2_ws/build/ros2_control_test_assets
+[1.374s] -- Install configuration: ""
+[1.374s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/include
+[1.374s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/include/ros2_control_test_assets
+[1.374s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/include/ros2_control_test_assets/components_urdfs.hpp
+[1.374s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/include/ros2_control_test_assets/descriptions.hpp
+[1.374s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/share/ament_index/resource_index/package_run_dependencies/ros2_control_test_assets
+[1.374s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/share/ament_index/resource_index/parent_prefix_path/ros2_control_test_assets
+[1.374s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/environment/ament_prefix_path.sh
+[1.374s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/environment/ament_prefix_path.dsv
+[1.375s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/environment/path.sh
+[1.375s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/environment/path.dsv
+[1.375s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/local_setup.bash
+[1.375s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/local_setup.sh
+[1.375s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/local_setup.zsh
+[1.375s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/local_setup.dsv
+[1.375s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/package.dsv
+[1.375s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/share/ament_index/resource_index/packages/ros2_control_test_assets
+[1.375s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.375s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/cmake/ros2_control_test_assetsConfig.cmake
+[1.375s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/cmake/ros2_control_test_assetsConfig-version.cmake
+[1.375s] -- Installing: /home/zbuka/ros2_ws/install/ros2_control_test_assets/share/ros2_control_test_assets/package.xml
+[1.406s] Invoked command in '/home/zbuka/ros2_ws/build/ros2_control_test_assets' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zbuka/ros2_ws/install/rqt_joint_trajectory_controller:/home/zbuka/ros2_ws/install/rqt_controller_manager:/home/zbuka/ros2_ws/install/ros2controlcli:/home/zbuka/ros2_ws/install/ros2_controllers_test_nodes:/home/zbuka/ros2_ws/install/nav2_gps_waypoint_follower_demo:/opt/ros/humble /usr/bin/cmake --install /home/zbuka/ros2_ws/build/ros2_control_test_assets
