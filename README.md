@@ -8,4 +8,4 @@ Koordinata se moze zadavati preko terminala, ali je zgodnije direktno u rviz-u (
 
 
 
-_**Link ka YouTube videu:**_ _https://youtu.be/XEUBVuAubF4_
+_Link ka YouTube videu:_ _https://youtu.be/XEUBVuAubF4_
