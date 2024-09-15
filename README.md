@@ -9,3 +9,11 @@ Korisceni su Ubuntu 22.04 i ROS2 Humble.
 
 
 _Link ka YouTube videu:_ _https://youtu.be/XEUBVuAubF4_
+
+Nephodni paketi:
+_controller-manager
+navigation2
+ros-humble-gazebo-ros2-control
+ros-humble-gazebo-pkgs
+ros-humble-ros2-control
+ros-humble-ros2-controllers_
